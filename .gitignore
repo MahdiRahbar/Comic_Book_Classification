@@ -1,7 +1,7 @@
 # Created by https://www.gitignore.io/api/macos,windows,linux,node
 
 ### Python ### 
-
+.ipynb_checkpoints
 #*.ipynb
 
 ### Linux ###
