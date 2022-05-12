@@ -1,0 +1,24 @@
+-rename images files
+-perform step #2
+
+
+
+~~~
+Parameters for different steps
+~~~
+
+HOG Descriptor -
+>winStride
+>scale
+>finalThreshold
+
+
+BOW training -
+>number of training imgs
+>num k-means clusters
+
+
+SVM NMS:
+>SVM_SCORE_THRESHOLD
+>NMS_OVERLAP_THRESHOLD
+>C value
