@@ -1,5 +1,5 @@
-2. perform HOG w/ BOW on traffic stop dataset & SVM (see sample code)
-3. modify for use w/ sp & bm
+-rename images files
+-perform step #2
 
 
 
