@@ -1,0 +1,8 @@
+DESIGN
+
+1. generate descriptors w/ HOG
+2. pass descriptors to BOW KMEANS TRAINER & train a vocab
+3. pass vocab to BOW_EXTRACTOR (w/ FLANN)
+4. generate descriptors w/ BOW_EXTRACTOR
+5. use descriptors as training data for SVM
+6. use SVM to predict test images and draw
