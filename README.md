@@ -1,6 +1,6 @@
 # ComicBookClassification Spiderman? Batman? None?!
 
-TEAM MEMBERS: Mahdi Rahbar Hayden Stephan Pankil Shaw
+TEAM MEMBERS: Mahdi Rahbar Hayden Stephan Pankil Shah
 
 Project specs:
 

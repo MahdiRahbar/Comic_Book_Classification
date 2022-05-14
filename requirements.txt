@@ -1,0 +1,8 @@
+numpy==1.21.6
+cv2
+matplotlib==3.2.2
+pyplot
+pickle
+pylab
+sklearn
+skimage==0.19.2
